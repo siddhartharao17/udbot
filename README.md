@@ -7,4 +7,4 @@ Create a test channel named ```#testchan``` which the bot will automatically joi
 Usage:  
 ```.ud <search term>```
 
-![udbot](/https://github.com/siddhartharao17/udbot/raw/udbot.png)
+![udbot](https://github.com/siddhartharao17/udbot/blob/master/raw/udbot.png)
